@@ -1,4 +1,4 @@
-# Software Architecture — SCARA v10.22
+# Software Architecture 
 
 The firmware runs entirely on an ESP32. There is no host PC involvement during normal operation. The browser connects over WiFi, sends HTTP requests to the ESP32's built-in web server, and polls a JSON status endpoint to update the UI. All motion, kinematics, safety, and storage run on the microcontroller.
 
