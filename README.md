@@ -169,7 +169,6 @@ If you print or redesign the robot:
 | SOFTWARE_ARCHITECTURE.md | Code architecture |
 | KINEMATICS.md | FK and IK explanation |
 | TROUBLESHOOTING.md | Common issues |
-| CONTRIBUTING.md | Contribution guide |
 
 ---
 
