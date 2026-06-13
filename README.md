@@ -4,14 +4,6 @@
 
 A modular SCARA robot arm control system built on ESP32 featuring Forward Kinematics, Inverse Kinematics, Motion Control, Recipe Execution, Persistent Storage, and a Web-Based User Interface.
 
-This repository is intended for:
-
-- Robotics students
-- Embedded systems developers
-- Makers and hobbyists
-- Researchers
-- Anyone building a custom SCARA robot
-
 ---
 
 # Features
