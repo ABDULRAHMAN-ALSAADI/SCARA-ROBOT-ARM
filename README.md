@@ -69,29 +69,17 @@ Stepper Drivers + Sensors
 ---
 
 # Web Interface
-<div class="image-grid">
- <img width="1554" height="1580" alt="192 168 137 30_" src="https://github.com/user-attachments/assets/0a381091-2a29-4056-8bba-7c5e4e1af6be" />
- <img width="1554" height="1580" alt="192 168 137 30_ (1)" src="https://github.com/user-attachments/assets/38e8ac0a-8b31-4991-8c3c-decfc5fd5bed" />
- <img width="1554" height="1716" alt="192 168 137 30_ (2)" src="https://github.com/user-attachments/assets/a9e763d2-556a-4588-97bf-74bf61977059" />
- <img width="1554" height="2979" alt="192 168 137 30_ (3)" src="https://github.com/user-attachments/assets/479ba439-d6ee-4a3c-9fae-f91f80972248" />
-</div>
 
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Creates exactly 2 equal-width columns */
-  gap: 20px; /* Adds a nice breathing room between the pictures */
-  max-width: 800px; /* Prevents the grid from getting too wide on large screens */
-  margin: 0 auto; /* Centers the whole grid on your webpage */
-}
-
-/* This fixes the "large images" problem */
-.image-grid img {
-  width: 100%; /* Forces the image to fit neatly inside its grid cell */
-  height: auto; /* Maintains the original aspect ratio so images don't stretch */
-  border-radius: 8px; /* Optional: Adds slightly rounded corners for a modern look */
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Optional: Adds a subtle shadow */
-}
-
+<table>
+  <tr>
+    <td width="50%"><img width="1554" height="1580" alt="192 168 137 30_" src="https://github.com/user-attachments/assets/0a381091-2a29-4056-8bba-7c5e4e1af6be" /></td>
+    <td width="50%"><img width="1554" height="1580" alt="192 168 137 30_ (1)" src="https://github.com/user-attachments/assets/38e8ac0a-8b31-4991-8c3c-decfc5fd5bed" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="1554" height="1716" alt="192 168 137 30_ (2)" src="https://github.com/user-attachments/assets/a9e763d2-556a-4588-97bf-74bf61977059" /></td>
+    <td width="50%"> <img width="1554" height="2979" alt="192 168 137 30_ (3)" src="https://github.com/user-attachments/assets/479ba439-d6ee-4a3c-9fae-f91f80972248" /></td>
+  </tr>
+</table>
 
 The web interface allows:
 
