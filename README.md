@@ -69,9 +69,11 @@ Stepper Drivers + Sensors
 ---
 
 # Web Interface
+<div class="image-grid">
+ <img width="1554" height="1580" alt="192 168 137 30_" src="https://github.com/user-attachments/assets/0a381091-2a29-4056-8bba-7c5e4e1af6be" />
+ <img width="1554" height="1580" alt="192 168 137 30_ (1)" src="https://github.com/user-attachments/assets/38e8ac0a-8b31-4991-8c3c-decfc5fd5bed" />
+</div>
 
-<img width="1554" height="1580" alt="192 168 137 30_" src="https://github.com/user-attachments/assets/0a381091-2a29-4056-8bba-7c5e4e1af6be" />
-<img width="1554" height="1580" alt="192 168 137 30_ (1)" src="https://github.com/user-attachments/assets/38e8ac0a-8b31-4991-8c3c-decfc5fd5bed" />
 
 
 The web interface allows:
