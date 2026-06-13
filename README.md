@@ -1,4 +1,4 @@
-<img width="1122" height="1402" alt="ChatGPT Image Jun 13, 2026, 09_01_35 PM" src="https://github.com/user-attachments/assets/6d13665c-fd13-4664-ac48-65e8bd2c5aa5" /># SCARA Robot Arm Controller
+# SCARA Robot Arm Controller
 <img width="6600" height="5100" alt="B2 Z-AXIS ARM BASE ASSEMBLY" src="https://github.com/user-attachments/assets/6d757b25-525f-4041-a2ba-22e4e828ae29" />
 
 
