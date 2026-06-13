@@ -1,4 +1,4 @@
-# SCARA Robot Arm Controller
+# SCARA Robot Arm Sowftware 
 <img width="6600" height="5100" alt="B2 Z-AXIS ARM BASE ASSEMBLY" src="https://github.com/user-attachments/assets/6d757b25-525f-4041-a2ba-22e4e828ae29" />
 
 
